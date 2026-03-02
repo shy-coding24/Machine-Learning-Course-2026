@@ -81,7 +81,7 @@ Berdasarkan metrik dan matriks yang Anda analisis, apakah model Regresi Logistik
 
 1. Isi template ini dengan pemikiran kritis Anda, jangan hanya mengandalkan teori teks.
 2. Simpan sebagai **PDF** atau **Markdown** (`.md`).
-3. Unggah ke *fork* repositori Anda di folder `assignments/minggu-4/NIM_NAMA/` beserta file *Notebook* `.ipynb` Anda.
+3. Unggah ke *fork* repositori Anda di folder `assignments/week-4/NIM_NAMA/` beserta file *Notebook* `.ipynb` Anda.
 4. Lakukan *Pull Request* ke repositori dosen.
 
 ---
